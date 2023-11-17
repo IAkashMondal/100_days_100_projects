@@ -5,79 +5,79 @@ i will upload 100 small MERN_HTML_CSS _projcts here
 - create a local branch
 - open your terminal
 - git init
-- git clone https://github.com/IAkashMondal/100_days_100_projects.git
+- git clone https://- github.com/IAkashMondal/100_days_100_projects.- git
 
-## Git Cheat Sheet----------->
+## - git Cheat Sheet----------->
 
 ### Initialize a Repository:
-git init
+- git init
 
 ### Clone a Repository:
-git clone <repository_url>
+- git clone <repository_url>
 
 ### Add Changes:
-git add <filename>
+- git add <filename>
 
 ### Commit Changes:
-git commit -m "Commit message"
+- git commit -m "Commit message"
 
 ### Push Changes to Remote:
-git push origin <branch_name>
+- git push origin <branch_name>
 
 ### Pull Changes from Remote:
-git pull origin <branch_name>
+- git pull origin <branch_name>
 
 ### Check Status:
-git status
+- git status
 
 ### Check Commit History:
-git log
+- git log
 
 ## Branching:
 
 ### Create a New Branch:
-git branch <branch_name>
+- git branch <branch_name>
 
 ### Switch to a Branch:
-git checkout <branch_name>
+- git checkout <branch_name>
 
 ### Create and Switch to a New Branch:
-git checkout -b <new_branch_name>
+- git checkout -b <new_branch_name>
 
 ### Merge Branches:
-git merge <branch_name>
+- git merge <branch_name>
 
 ### Delete a Branch:
-git branch -d <branch_name>
+- git branch -d <branch_name>
 
-## GitHub Collaboration:
+##  gitHub Collaboration:
 
 ### Add a Remote Repository:
-git remote add origin <repository_url>
+- git remote add origin <repository_url>
 
 ### Fetch Changes from Remote:
-git fetch origin
+- git fetch origin
 
 ### Create a Pull Request (PR):
-### - Push your changes to your repository and then create a PR on GitHub.
+- Push your changes to your repository and then create a PR on - gitHub.
 
 ### Merge Pull Request:
-### - After reviewing, merge a PR on GitHub.
+ - After reviewing, merge a PR on - gitHub.
 
 ### Update Local Repository from Remote:
-git pull origin <branch_name>
+- git pull origin <branch_name>
 
 ### Miscellaneous:
 
-# Ignore Files (Edit .gitignore):
-# - Create or edit a .gitignore file to specify files/folders to be ignored.
+### Ignore Files (Edit .- gitignore):
+ - Create or edit a .- gitignore file to specify files/folders to be ignored.
 
-# Undo Last Commit:
-git reset HEAD^
+### Undo Last Commit:
+- git reset HEAD^
 
-# Discard Changes in Working Directory:
-git checkout -- <filename>
+### Discard Changes in Working Directory:
+- git checkout -- <filename>
 
-# Configure Username and Email:
-git config --global user.name "Your Name"
-git config --global user.email "your.email@gmail.com"
+### Configure Username and Email:
+- git config --global user.name "Your Name"
+- - git config --global user.email "your.email@gmail.com"
